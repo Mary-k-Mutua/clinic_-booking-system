@@ -1,5 +1,5 @@
-Clinic Booking System Database
-Overview
+****Clinic Booking System Database****
+**Overview**
 This project is a MySQL-based relational database designed for a Clinic Booking System. It manages patients, doctors, appointments, medical records, and departments, with proper relationships and constraints to ensure data integrity and efficient operations.
 Features
 
